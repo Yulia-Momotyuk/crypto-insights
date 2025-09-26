@@ -26,7 +26,7 @@ Provide a broad market view, assess the stability of assets, their risk exposure
 
 > ⚠️ KPI are displayed **only when a single coin is selected** (ADA, BTC, ETH, SOL, XRP) to avoid confusion from aggregated values.  
 
-![Market Overview](screenshots/market_overview_2.png)  
+![Market Overview](screenshots/market_overview_2.PNG)  
 
 ### KPI Color Logic  
 Conditional formatting is applied for fast interpretation:  
@@ -49,7 +49,7 @@ This allows users to quickly assess asset status at a glance:
 
 ## 2. Strategy Simulation Dashboard  
 
-![Strategy Simulation](screenshots/strategy_simulation.png)
+![Strategy Simulation](screenshots/strategy_simulation.PNG)
 
 ### Purpose  
 Enable investors to model outcomes of three approaches:  
