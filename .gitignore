@@ -1,0 +1,5 @@
+venv_crypto/
+anaconda_projects/
+.ipynb_checkpoints/
+.virtual_documents/
+
