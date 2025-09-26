@@ -12,7 +12,7 @@ Together, they form an integrated analytics system: from **evaluating risks and 
 
 ## 1. Market Overview Dashboard  
 
-### 🎯 Purpose  
+### Purpose  
 Provide a broad market view, assess the stability of assets, their risk exposure, and profitability potential.  
 
 ![Market Overview](screenshots/market_overview.png)  
@@ -57,7 +57,7 @@ Enable investors to model outcomes of three approaches:
 - **Buy the Dip**  
 - **Dollar-Cost Averaging (DCA)**  
 
-### 📈 KPI  
+### KPI  
 - **Invested Amount (USD)** – initial investment amount (controlled by slider).  
 - **Final Portfolio Value (USD)** – ending portfolio value.  
 - **Profit (USD)** – net result in USD.  
@@ -65,14 +65,14 @@ Enable investors to model outcomes of three approaches:
 
 > ⚠️ KPI are also displayed only when a **single coin** is selected.  
 
-### 📊 Visualizations  
+### Visualizations  
 - **Final Value by Coin & Strategy (Clustered Bar Chart)** – portfolio outcome per strategy.  
 - **ROI Distribution by Strategy (Boxplot)** – distribution of ROI across strategies.  
 - **Coin Cards (ADA, BTC, ETH, SOL, XRP)** – individual cards with Final Value, Profit, and ROI %.  
 
 ---
 
-## ✨ Dashboards Interaction  
+## Dashboards Interaction  
 
 - **Market Overview Dashboard** answers:  
   - Which coins are more stable?  
@@ -84,5 +84,5 @@ Enable investors to model outcomes of three approaches:
   - How does profitability change with different investment amounts?  
   - Which asset delivers the most favorable outcome under chosen conditions?  
 
-🔑 Together, the dashboards deliver a **holistic decision-support system**:  
+ Together, the dashboards deliver a **holistic decision-support system**:  
 from **market diagnostics** → to **strategy testing**.  

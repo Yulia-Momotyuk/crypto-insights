@@ -92,7 +92,6 @@ Open **[`ccrypto_invest_insight.ipynb`](crypto_invest_insight.ipynb)** in Jupyte
 ### Business & Technical Goals  
 
 - **Business Goal:** Assess cryptocurrency performance and strategy efficiency to support investment decision-making and risk management.
-  
 - **Technical Goal:** Extract raw data via API, process it in Python, simulate strategies, apply statistics & ML, and deliver insights through visualization and a Power BI dashboard.
 
 ---
