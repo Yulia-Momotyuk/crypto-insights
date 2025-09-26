@@ -15,7 +15,7 @@ Together, they form an integrated analytics system: from **evaluating risks and 
 ### Purpose  
 Provide a broad market view, assess the stability of assets, their risk exposure, and profitability potential.  
 
-![Market Overview](screenshots/market_overview.png)  
+![Market Overview](screenshots/market_overview.PNG)  
 
 ### KPI  
 - **ROI % (Return on Investment)** – average return.  
