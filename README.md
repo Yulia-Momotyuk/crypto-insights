@@ -77,17 +77,6 @@ The main objective is to explore market dynamics, risks, and the effectiveness o
 - **Sharpe ratio** ranking: XRP > BTC > ETH > ADA > SOL.  
 
 ---
-## 7. Installation  
-To run this project locally:  
-```bash
-git clone https://github.com/Yulia-Momotyuk/crypto-insight.git
-cd crypto_invest_insight
-```
-### Open Notebook
-
-Open **[`ccrypto_invest_insight.ipynb`](crypto_invest_insight.ipynb)** in Jupyter Lab.
-
----
 
 ### Business & Technical Goals  
 
@@ -95,11 +84,13 @@ Open **[`ccrypto_invest_insight.ipynb`](crypto_invest_insight.ipynb)** in Jupyte
 - **Technical Goal:** Extract raw data via API, process it in Python, simulate strategies, apply statistics & ML, and deliver insights through visualization and a Power BI dashboard.
 
 ---
+
 ## 📬 Contact
 
 [LinkedIn](https://www.linkedin.com/in/yuliia-kononchuk-78913633b/) | [Email](mailto:kononchuk.yuliia@gmail.com)
 
 ---
+
 > **Author**: _Yuliia Kononchuk_  
 > _This repository is part of my personal learning journey and professional portfolio._ 
 
