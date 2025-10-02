@@ -30,14 +30,9 @@ Provide a broad market view, assess the stability of assets, their risk exposure
 
 ### KPI Color Logic  
 Conditional formatting is applied for fast interpretation:  
-- 🟢 **Green** – positive performance (ROI > 0, Sharpe/Sortino > 0, Drawdown below average risk).  
-- 🔴 **Red** – negative performance (ROI < 0, high risk, or severe drawdown).  
-- 🟡 **Yellow** – neutral range (close to 0 or borderline acceptable).  
-
-This allows users to quickly assess asset status at a glance:  
-- green = promising asset,  
-- red = risk warning,  
-- yellow = requires further review.  
+- 🟢 **Green** – positive performance (promising asset).  
+- 🔴 **Red** – negative performance (risk warning).  
+- 🟡 **Yellow** – neutral range (requires further review).  
 
 ### Visualizations  
 - **Crypto Price Trends (Line Chart)** – price dynamics over time.  
